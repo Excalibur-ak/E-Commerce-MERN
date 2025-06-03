@@ -56,5 +56,18 @@ npm run build
 ```shell
 npm run start
 ```
+
+## Another Way To Run 
+
+```shell
+cd backend
+npm run dev
+
+---Another shell---
+
+cd frontend
+npm run dev
+
+```
 >>>>>>> e09fdc873df72ea0dc08eeefbd5e4add4bb1f242
 # E-Commerce-MERN
